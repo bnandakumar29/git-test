@@ -22,9 +22,7 @@ pipeline {
                 steps {
 			echo "Hello"
                         }
-        }
+        	}
 			}  
         }
-    }
-}
 
